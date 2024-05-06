@@ -15,7 +15,7 @@ Welcome! I am an Assistant Research Professor at [Steward Observatory](https://w
 
 I got my Ph.D in astronomy and astrophysics from University of Aizona in 2020.
 
- * [CV](), [publications]()(to be updated occasionally); see [astro-ph arXiv](https://arxiv.org/search/advanced?advanced=1&terms-0-operator=AND&terms-0-term=jianwei+lyu&terms-0-field=author&classification-physics=y&classification-physics_archives=astro-ph&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first) for most recent papers.
+ * [CV](), [publications]() (to be updated occasionally); see [astro-ph arXiv](https://arxiv.org/search/advanced?advanced=1&terms-0-operator=AND&terms-0-term=jianwei+lyu&terms-0-field=author&classification-physics=y&classification-physics_archives=astro-ph&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first) for most recent papers.
 
 #### news and new papers
 
