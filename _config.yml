@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Jianwei Lyu"
+title                    : "Jianwei Lyu"
 title_separator          : "-"
 name                     : &name "Dr. Jianwei Lyu"
 description              : &description "personal website"
