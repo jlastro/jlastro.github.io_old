@@ -25,7 +25,7 @@ author:
   name             : "Dr. Jianwei Lyu"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Research Professor"
-  location         : "Tucson, AZ, USA"
+  location         : <address> 933 N Cherry Ave, <br />Steward Observatory 262, <br /> Tucson, AZ 85721 </address>
   employer         : "University of Arizona"
   uri              : # URL
   email            : "jianwei@arizona.edu" 
