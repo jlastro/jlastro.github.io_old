@@ -17,6 +17,10 @@ redirect_from:
 
 Welcome! I am an Assistant Research Professor at [Steward Observatory](https://www.as.arizona.edu/), [University of Arizona](https://www.arizona.edu/). I study the dusty side of supermassive black holes and galaxies across the cosmic time. 
 
+I got my Ph.D in astronomy and astrophysics from University of Aizona in 2020.
+
+ * [CV](), [publications]()(to be updated occasionally); see astro-ph arXiv for recent papers
+
 #### news and new papers
 
 
