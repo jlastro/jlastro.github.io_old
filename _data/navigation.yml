@@ -9,6 +9,12 @@ main:
   
   - title: "Download"
     url: /download/
+  
+  - title: "Teaching"
+    url: /teaching/
+  
+  - title: "Outrearch"
+    url: /outreach/
     
   - title: "Personal"
     url: /personal/
