@@ -25,16 +25,16 @@ now, we even do not have a complete picture of the growing phase of SMBHs, also
 known as the active galactic nuclei (AGN) phenomenon. 
 
 Unlike many astronomers who have been annoyed by dust, I take advantage of its
-IR emission to search and characterize AGN and their host systems with a wide
-range of data and techniques across the electromagnetic spectrum. This includes
-spectral energy distribution (SED) analysis of the unresolved multi-band
-UV-to-submm photometry measurements, UV to mid-IR spectral observations with
-both ground- and space-based telescopes, morphological study and
-optical--to--mid-IR integral field unit (IFU) observations, optical to near-IR
-dust reverberation mapping, multi-wavelength diagnostics from X-ray to the
-radio band to search for AGN signature, numerical simulations of dust radiative
-transfer models on supercomputers. You can learn more in the
-[research](/research) page.
+IR emission to search and characterize AGN and their host systems with the
+combination of various data and techniques across the electromagnetic spectrum.
+This includes spectral energy distribution (SED) analysis of the unresolved
+multi-band UV-to-submm photometry measurements, UV to mid-IR spectral
+observations with both ground- and space-based telescopes, morphological study
+and optical--to--mid-IR integral field unit (IFU) observations, optical to
+near-IR time variability and dust reverberation mapping, multi-wavelength
+diagnostics from deep X-ray, optical, IR and radio surveys to search for AGN
+signature, numerical simulations of dust radiative transfer models on
+supercomputers. You can learn more in the [research](/research) page.
 
 I have been interested in astronomy since I was a child and I still enjoy
 stargazing every once in a while. In particular, I conduct astrophotography and
