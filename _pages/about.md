@@ -35,8 +35,8 @@ UV-to-submm photometry measurements of low-z objects and high-z ones to obtain
 insights on the AGN dusty environment, optical to near-IR time variability and
 dust reverberation mapping to probe the very inner structures of the AGN torus.
 I also conduct morphological study, optical--to--mid-IR integral field unit
-(IFU), and UV to mid-IR spectroscopic observations to AGN and galaxies near and
-far with various ground- and space-based telescopes. Sometimes I also do
+(IFU), and UV to mid-IR spectroscopic observations of AGN and galaxies near and
+far with various ground- and space-based telescopes. Sometimes I even do
 numerical simulations and run complicated models to explain the observations on
 supercomputers. You can learn more in the [research](/research) page.
 
