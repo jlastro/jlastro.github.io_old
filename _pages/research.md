@@ -7,7 +7,7 @@ redirect_from:
   - /research
 ---
 
-Research
 
+![](../images/word_cloud_2406.jpeg)
 
-![keyword cloud](./images/word_cloud_2406.jpeg)
+(under construction)
