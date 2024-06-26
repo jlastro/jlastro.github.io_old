@@ -13,7 +13,8 @@ redirect_from:
 Welcome! I am an astronomer at [Steward Observatory](https://www.as.arizona.edu/), [University of Arizona](https://www.arizona.edu/). I study supermassive black holes and galaxies across the cosmic time with a focus on their infrared properties. 
 
 
-To study these objects, I use a wide range of data and techniques across the electromagnetic spectrum. You can learn more in the [research]() page.
+
+To study these objects, I use a wide range of data and techniques across the electromagnetic spectrum. You can learn more in the [research](/research) page.
 
 I have been interested in astronomy since I was a child and I still enjoy stargazing every once in a while. In particular, I conduct astrophotography and chase solar eclipses. I am also a fun of drawing & painting (both paper and digital), running (marathon races included), anime and sci-fi. 
 
