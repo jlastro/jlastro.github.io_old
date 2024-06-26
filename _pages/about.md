@@ -16,14 +16,13 @@ Arizona](https://www.arizona.edu/) and a member of the JWST/MIRI Science Team.
 I study supermassive black holes (SMBHs) and galaxies across the cosmic time
 with a focus on their infrared properties. 
 
-How do SMBH influence galaxy formation and evolution? What
-are the mechanisms behind their growth and interactions with surrounding matter?
-Unravelling the mysteries of SMBHs and their relationship
-with galaxies is essential for advancing our understanding of the Universe's
-past, present and future. However, the existence of large amount of dust
-greatly shapes the observed properties and makes the systems obscured. Right
-now, we even do not have a complete picture of the growing phase of SMBHs, also
-known as the active galactic nuclei (AGN) phenomenon. 
+How do SMBH influence galaxy formation and evolution? What are the mechanisms
+behind their growth and interactions with surrounding matter?  Unravelling the
+mysteries of SMBHs and their relationship with galaxies is a major mission in
+extragalactic astronomy. However, the existence of large amount of dust greatly
+shapes the observed properties and makes the systems obscured. Right now, we
+even do not have a complete picture of the growing phase of SMBHs, also known
+as the active galactic nuclei (AGN) phenomenon. 
 
 Unlike many astronomers who have been annoyed by dust, I take advantage of its
 IR emission to search and characterize AGN and their host systems with the
