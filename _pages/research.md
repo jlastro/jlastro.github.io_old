@@ -7,4 +7,7 @@ redirect_from:
   - /research
 ---
 
-research content
+Research
+
+
+![keyword cloud](./images/word_cloud_2406.jpeg)
