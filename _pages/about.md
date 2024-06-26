@@ -12,12 +12,13 @@ redirect_from:
 
 Welcome! I am an astronomer at [Steward
 Observatory](https://www.as.arizona.edu/), [University of
-Arizona](https://www.arizona.edu/). I study supermassive black holes (SMBH) and
-galaxies across the cosmic time with a focus on their infrared properties. 
+Arizona](https://www.arizona.edu/) and a member of the JWST/MIRI Science Team.
+I study supermassive black holes (SMBHs) and galaxies across the cosmic time
+with a focus on their infrared properties. 
 
-How do supermassive black holes influence galaxy formation and evolution? What
+How do SMBH influence galaxy formation and evolution? What
 are the mechanisms behind their growth and interactions with surrounding matter?
-Unravelling the mysteries of supermassive black holes and their relationship
+Unravelling the mysteries of SMBHs and their relationship
 with galaxies is essential for advancing our understanding of the Universe's
 past, present and future. However, the existence of large amount of dust
 greatly shapes the observed properties and makes the systems obscured. Right
@@ -27,13 +28,16 @@ known as the active galactic nuclei (AGN) phenomenon.
 Unlike many astronomers who have been annoyed by dust, I take advantage of its
 IR emission to search and characterize AGN and their host systems with the
 combination of various data and techniques across the electromagnetic spectrum.
-This includes spectral energy distribution (SED) analysis of the unresolved
-multi-band UV-to-submm photometry measurements, UV to mid-IR spectral
-observations with both ground- and space-based telescopes, morphological study
-and optical--to--mid-IR integral field unit (IFU) observations, optical to
-near-IR time variability and dust reverberation mapping, multi-wavelength
-diagnostics from deep X-ray, optical, IR and radio surveys to search for AGN
-signature, numerical simulations of dust radiative transfer models on
+This includes multi-wavelength diagnostics from deep X-ray, optical, IR and
+radio surveys to search for obscured AGNs across cosmic time, comparative
+spectral energy distribution (SED) analysis of the unresolved multi-band
+UV-to-submm photometry measurements of low-z objects and high-z ones to obtain
+insights on the AGN dusty environment, optical to near-IR time variability and
+dust reverberation mapping to probe the very inner structures of the AGN torus.
+I also conduct morphological study, optical--to--mid-IR integral field unit
+(IFU), and UV to mid-IR spectroscopic observations to AGN and galaxies near and
+far with various ground- and space-based telescopes. Sometimes I also do
+numerical simulations and run complicated models to explain the observations on
 supercomputers. You can learn more in the [research](/research) page.
 
 I have been interested in astronomy since I was a child and I still enjoy
